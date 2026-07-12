@@ -1,27 +1,42 @@
 # Husvagnsguide
 
-Välkommen! Den här guiden samlar det viktigaste för att använda husvagnen tryggt: uppställning, el, takluckor, avfärd, koppling och städning.
+Praktisk manual för uppställning, användning, avfärd och återlämning av husvagnen.
 
-!!! tip "För gäster"
-    Börja med **Snabbstart** och använd sedan checklistorna för **Ställa upp** och **Inför avfärd**.
+## Hitta snabbt
 
-## Viktigast först
+| Situation | Gå till |
+|---|---|
+| Kommit fram och ska börja använda vagnen | [Snabbstart](snabbstart.md) · [Ställa upp](uppstallning.md) |
+| Ska köra eller lämna tillbaka vagnen | [Inför avfärd](avfard.md) |
+| Ska koppla vagnen på bilen | [Koppla husvagnen](koppla-husvagn.md) |
+| Behöver förstå el, batteri eller säkringar | [El och batteri](el.md) |
+| Taklucka, ventilation, myggnät eller mörkläggning | [Takluckor](takluckor.md) |
+| Ska packa/lasta vagnen | [Lastning](lasta-husvagn.md) |
+| Ska städa innan återlämning | [Städning](stadning.md) |
+| Vill skriva ut länk till manualen | [QR-kod](qr-kod.md) |
 
-- **Gasolen ska vara avstängd under färd.**
-- **Takluckor och fönster ska vara stängda och haspade under färd.**
-- **Tunga saker ska inte ligga kvar i överskåp under körning.**
-- **Kontrollera alltid att släpets belysning fungerar innan avfärd.**
-- **Lasta tungt lågt och nära hjulaxeln.**
+## Säkerhetskritiska kontroller
 
-## Föreslagen ordning
+Kontrollera alltid detta innan körning:
 
-1. [Ställ upp husvagnen](uppstallning.md)
-2. [Läs om el och batteri](el.md)
-3. [Använd takluckorna rätt](takluckor.md)
-4. [Städa innan återlämning](stadning.md)
-5. [Gå igenom avfärdschecklistan](avfard.md)
-6. [Koppla husvagnen säkert](koppla-husvagn.md)
+- Gasen är avstängd.
+- Takluckor och fönster är helt stängda och haspade.
+- Stödben/fötter är uppvevade.
+- Lösa saker är borttagna från bänk och bord.
+- Tunga saker är nedlyfta ur överskåpen.
+- Husvagnen sitter korrekt på dragkroken.
+- Säkerhetsvajer och elkontakt är anslutna.
+- Släpets belysning fungerar.
 
-## Vid problem
+## Normal arbetsordning
+
+1. [Ställa upp](uppstallning.md) när vagnen står på plats.
+2. [El och batteri](el.md) vid frågor om 220 V, 12 V, säkringar eller laddning.
+3. [Takluckor](takluckor.md) för ventilation, myggnät och mörkläggning.
+4. [Städning](stadning.md) inför återlämning.
+5. [Inför avfärd](avfard.md) innan vagnen flyttas.
+6. [Koppla husvagnen](koppla-husvagn.md) innan körning.
+
+## Problem
 
 Kontakta ägaren via den kontaktväg du fått vid bokningen.
