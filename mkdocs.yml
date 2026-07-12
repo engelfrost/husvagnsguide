@@ -1,0 +1,43 @@
+site_name: Husvagnsguide
+site_url: https://engelfrost.github.io/husvagnsguide/
+site_description: Praktisk guide för att använda, ställa upp och lämna tillbaka husvagnen.
+repo_url: https://github.com/engelfrost/husvagnsguide
+repo_name: engelfrost/husvagnsguide
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: sv
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
+nav:
+  - Start: index.md
+  - Snabbstart: snabbstart.md
+  - Ställa upp: uppstallning.md
+  - Inför avfärd: avfard.md
+  - Koppla husvagnen: koppla-husvagn.md
+  - El och batteri: el.md
+  - Takluckor: takluckor.md
+  - Lastning: lasta-husvagn.md
+  - Städning: stadning.md
+  - QR-kod: qr-kod.md
