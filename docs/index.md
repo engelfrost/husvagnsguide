@@ -19,7 +19,7 @@ Praktisk manual för uppställning, användning, avfärd och återlämning av hu
 
 Kontrollera alltid detta innan körning:
 
-- Gasen är avstängd.
+- Gasen är avstängd inför körning.
 - Takluckor och fönster är helt stängda och haspade.
 - Stödben/fötter är uppvevade.
 - Lösa saker är borttagna från bänk och bord.
