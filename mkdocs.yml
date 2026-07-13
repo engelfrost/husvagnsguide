@@ -19,6 +19,9 @@ theme:
     - search.suggest
     - search.highlight
 
+extra_javascript:
+  - assets/checklists.js
+
 markdown_extensions:
   - admonition
   - attr_list
