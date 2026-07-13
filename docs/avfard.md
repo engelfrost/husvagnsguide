@@ -13,19 +13,17 @@ Gå igenom checklistan innan husvagnen flyttas eller lämnas tillbaka.
 - [ ] Kontrollera skåpsluckor.
 - [ ] Lås garderoben.
 - [ ] Spärra kylskåpsdörren med packning.
-- [ ] Ta ner bordslampan.
 - [ ] Haspa skjutdörren.
 - [ ] Stäng toalettdörren.
+- [ ] Töm vattentanken.
 - [ ] Ta bort lösa saker från bänk och bord.
 
-## Utvändigt och system
+## Utvändigt
 
-- [ ] Stäng av gasen.
-- [ ] Töm vattentanken.
 - [ ] Koppla ur gråvatten.
 - [ ] Veva upp stödbenen/fötterna.
 - [ ] Lås dörren.
 - [ ] Lås luckan.
 
 !!! danger "Kontrollera innan körning"
-    Kontrollera att takluckor, fönster, gas och stödben verkligen är säkrade innan ni kör.
+    Kontrollera att takluckor, fönster och stödben verkligen är säkrade innan ni kör.

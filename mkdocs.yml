@@ -32,7 +32,6 @@ markdown_extensions:
 
 nav:
   - Start: index.md
-  - Snabbstart: snabbstart.md
   - Ställa upp: uppstallning.md
   - Inför avfärd: avfard.md
   - Koppla husvagnen: koppla-husvagn.md

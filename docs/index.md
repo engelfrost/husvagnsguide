@@ -6,7 +6,7 @@ Praktisk manual för uppställning, användning, avfärd och återlämning av hu
 
 | Situation | Gå till |
 |---|---|
-| Kommit fram och ska börja använda vagnen | [Snabbstart](snabbstart.md) · [Ställa upp](uppstallning.md) |
+| Kommit fram och ska börja använda vagnen | [Ställa upp](uppstallning.md) |
 | Ska köra eller lämna tillbaka vagnen | [Inför avfärd](avfard.md) |
 | Ska koppla vagnen på bilen | [Koppla husvagnen](koppla-husvagn.md) |
 | Behöver förstå el, batteri eller säkringar | [El och batteri](el.md) |

@@ -7,7 +7,7 @@ Husvagnen har två elsystem:
 | **220 V växelström** | Kylskåp och 220 V-uttag |
 | **12 V likström/batteri** | Lampor, gasollarm, cigarettkontakt, vattenpump och fläkt till värmen |
 
-Kylen kan även drivas på batteri ett kortare tag, vilket kan vara användbart under färd.
+Medan kylen också kan drivas på batteri rekommenderas det inte då batteriet tar slut väldigt fort.
 
 ## 12 V-systemet
 
@@ -21,7 +21,7 @@ På den blå regulatorn visar de fyra små dioderna hur laddat batteriet är.
 
 ## Säkringar till 12 V
 
-Under soffan sitter säkringar till 12 V-systemet. Extra säkringar finns också där.
+Under soffan sitter säkringar till 12 V-systemet. Extra säkringar finns också där. Se röda markeringar.
 
 ![Säkringar till 12 V-systemet](assets/bilder/sakringar-12v.webp)
 

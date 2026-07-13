@@ -29,7 +29,7 @@ Så här ser barnkammarens taklucka ut när den är stängd. Myggnätet dras ut 
 
 ### Öppna takluckan
 
-1. Tryck på sidorna för att koppla isär.
+1. Koppla isär myggnätet från mörkläggninsgardinen (se bild)
 2. Tryck in de mörkgrå spärrarna på båda sidor.
 3. Tryck luckan uppåt kontrollerat men bestämt.
 

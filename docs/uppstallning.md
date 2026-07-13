@@ -10,6 +10,3 @@ Gå igenom checklistan när husvagnen står på plats.
 - [ ] Sätt på kylen.
 - [ ] Koppla gråvattentanken.
 - [ ] Fyll på vatten.
-
-!!! warning "Under färd"
-    Gasen ska vara avstängd och takluckorna ska vara helt stängda under körning.
