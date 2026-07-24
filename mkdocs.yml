@@ -36,6 +36,7 @@ markdown_extensions:
 nav:
   - Start: index.md
   - Ställa upp: uppstallning.md
+  - Förtält: fortalt.md
   - Inför avfärd: avfard.md
   - Koppla husvagnen: koppla-husvagn.md
   - El och batteri: el.md
