@@ -9,10 +9,9 @@ Det är ett vanligt förtält med stänger och tältduk.
 3. Arbeta framifrån och bakåt, från husvagnen och utåt.
 4. Sätt stommen på plats utan att spänna hårt från början.
 5. Sätt på alla väggdelar.
-6. Kontrollera att taket ligger jämnt utan gropar.
-7. Spänn tältet först när stommen och alla väggdelar är på plats.
-8. Använd tältspännaren på slutet vid behov.
-9. Fäst duken ordentligt i marken.
+6. Spänn tältet först när stommen och alla väggdelar är på plats.
+7. Använd tältspännaren på slutet vid behov.
+8. Fäst duken ordentligt i marken.
 
 !!! warning "Spänn inte för tidigt"
     Spänn inte hårt från början. Vänta tills stommen och alla väggdelar är på plats.
